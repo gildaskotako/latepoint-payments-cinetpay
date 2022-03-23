@@ -1,0 +1,9 @@
+.lp-processor-logo.lp-processor-logo-cinetpay {
+  background-image: url(/wp-content/plugins/latepoint-payments-cinetpay/public/images/processor-logo.png);
+  background-size: contain;
+  color: transparent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 60px;
+  overflow: hidden;
+}
