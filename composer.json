@@ -1,5 +1,23 @@
 {
-    "require": {
-        "cinetpay/cinetpay-php": "^1.9"
+  "name": "latepoint/payments-hiboutik",
+  "description": "Accept payments on your site using Hiboutik Payment Processor",
+  "require": {
+    "cinetpay/cinetpay-php": "^1.9"
+  },
+  "keywords": [
+    "hiboutik",
+    "integration",
+    "latepoint",
+    "payments"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/arthuRHD/latepoint-payments-hiboutik",
+  "authors": [
+    {
+      "name": "Arthur Richard",
+      "email": "arthur.richard@protonmail.com",
+      "role": "Developer"
     }
+  ],
+  "minimum-stability": "stable"
 }

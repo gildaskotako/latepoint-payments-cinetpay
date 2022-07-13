@@ -1,9 +1,14 @@
 {
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "5c559adff2f87c44b5857f342b58d911",
     "packages": [
         {
             "name": "cinetpay/cinetpay-php",
             "version": "1.9.2",
-            "version_normalized": "1.9.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cinetpay/cinetpay-php-legacy.git",
@@ -20,9 +25,7 @@
                 "ext-json": "*",
                 "php": ">=5.6.0"
             },
-            "time": "2020-11-30T00:00:00+00:00",
             "type": "library",
-            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "CinetPay": "src/"
@@ -52,9 +55,16 @@
                 "issues": "https://github.com/cinetpay/cinetpay-php-legacy/issues",
                 "source": "https://github.com/cinetpay/cinetpay-php-legacy/tree/v1.9.2"
             },
-            "install-path": "../cinetpay/cinetpay-php"
+            "time": "2020-11-30T00:00:00+00:00"
         }
     ],
-    "dev": true,
-    "dev-package-names": []
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
 }
