@@ -1,0 +1,2 @@
+# latepoint-payments-hiboutik
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a2c8d038eb994541bd87e30bb9328812)](https://app.codacy.com/gh/arthuRHD/latepoint-payments-hiboutik?utm_source=github.com&utm_medium=referral&utm_content=arthuRHD/latepoint-payments-hiboutik&utm_campaign=Badge_Grade_Settings)
