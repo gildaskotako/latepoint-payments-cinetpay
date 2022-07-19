@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name: LatePoint Addon - Payments Cinetpay
+ * Plugin Name: LatePoint Addon - Payments Hiboutik
  * Plugin URI:  https://latepoint.com/
- * Description: LatePoint addon for payments via Cinetpay
+ * Description: LatePoint addon for payments via Hiboutik
  * Version:     1.0.2
  * Author:      LatePoint
  * Author URI:  https://latepoint.com/
- * Text Domain: latepoint-payments-cinetpay
+ * Text Domain: latepoint-payments-hiboutik
  * Domain Path: /languages
  */
 
@@ -16,24 +16,24 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 // If no LatePoint class exists - exit, because LatePoint plugin is required for this addon
 
-if ( ! class_exists( 'LatePointPaymentsCinetpay' ) ) :
+if ( ! class_exists( 'LatePointPaymentsHiboutik' ) ) :
 
 /**
  * Main Addon Class.
  *
  */
 
-class LatePointPaymentsCinetpay {
+class LatePointPaymentsHiboutik {
 
   /**
    * Addon version.
    *
    */
-  public $version = '1.0.2';
+  public $version = '1.0.0';
   public $db_version = '1.0.0';
-  public $addon_name = 'latepoint-payments-cinetpay';
+  public $addon_name = 'latepoint-payments-hiboutik';
 
-  public $processor_code = 'cinetpay';
+  public $processor_code = 'hiboutik';
 
 
 
